@@ -1,0 +1,4 @@
+.env
+geminilog.txt
+geminimodels.txt
+node_modules
